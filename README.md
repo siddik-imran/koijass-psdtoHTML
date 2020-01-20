@@ -1,2 +1,2 @@
-# psd-to-html-2-koiJass
+# psd-to-html-2
 koiJasS
